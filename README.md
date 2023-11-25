@@ -1,2 +1,2 @@
 # outfit
-## Editfile
+## Editfile for use
